@@ -2,7 +2,7 @@
 title: "python venv：虚拟环境详解"
 pubDate: "2025-03-14"
 description: "Python venv 是 Python 3.3+ 内置的虚拟环境创建和管理工具。它允许您创建一个隔离的 Python 环境，该环境拥有自己独立的 Python 解释器和包集合，与系统级 Python 环境或其他虚拟环境完全分离。"
-hero: "/images/penv.jpeg"
+hero: "/images/penv.png"
 tags: ["Python", "虚拟环境"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
